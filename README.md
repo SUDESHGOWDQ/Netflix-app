@@ -1,0 +1,7 @@
+![Image_20231218_180641_911](https://github.com/SUDESHGOWDQ/Netflix-app/assets/112839296/c174ef1d-d6ef-41af-b4cc-9b95301c8a10)
+![Image_20231218_180642_199](https://github.com/SUDESHGOWDQ/Netflix-app/assets/112839296/cd6b114a-661d-4fc4-95be-ef12f20a1e29)
+![Image_20231218_180642_573](https://github.com/SUDESHGOWDQ/Netflix-app/assets/112839296/8b116388-7bb5-4b5e-9772-e1a2fc2a6bb8)
+![Image_20231218_180642_837](https://github.com/SUDESHGOWDQ/Netflix-app/assets/112839296/2f950f6f-14b1-4ace-b4e9-9a15179b8f52)
+![Image_20231218_180643_132](https://github.com/SUDESHGOWDQ/Netflix-app/assets/112839296/a5def6f6-7fb5-4697-bc15-897719b4e8a2)
+![Image_20231218_180643_379](https://github.com/SUDESHGOWDQ/Netflix-app/assets/112839296/c354279b-c160-4523-83e2-c8b521032c09)
+![Image_20231218_180643_626](https://github.com/SUDESHGOWDQ/Netflix-app/assets/112839296/d4e6b69e-0f7b-4ed3-9b71-471fc46a151d)
