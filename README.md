@@ -1,4 +1,7 @@
 # Netflix-app
+
+createf Netfix app by the help of react native and i have added firebase email and password authentication and i have used Tmbd api to build this app  
+
 React Native Netflix app
 ![Image_20231218_180641_911](https://github.com/SUDESHGOWDQ/Netflix-app/assets/112839296/849521df-45ce-4e2e-9758-95a367ac7ae3)
 ![Image_20231218_180642_199](https://github.com/SUDESHGOWDQ/Netflix-app/assets/112839296/703b447f-d281-4ab2-bfda-a2694f21548e)
