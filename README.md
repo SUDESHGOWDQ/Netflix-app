@@ -1,5 +1,8 @@
 # Netflix-app
 
+## To run on web use this command
+npx expo install react-native-web@~0.19.6 react-dom@18.2.0@expo/webpack-config^19.0.0
+
 createf Netfix app by the help of react native and i have added firebase email and password authentication and i have used Tmbd api to build this app  
 
 React Native Netflix app
